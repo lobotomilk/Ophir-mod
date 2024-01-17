@@ -27,8 +27,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [217,66,43],
-		"innerColor": [125,222,69],
+		"outerColor": [240,223,41],
+		"innerColor": [23,110,22],
 		"uniqueName": "Pristine Nature",
 		"uniques": ["Gain a free [Ethiopian Culture] [in all non-occupied cities"],
 		
