@@ -6,13 +6,12 @@
 		"uniques": ["Unsellable","Unbuildable","Never destroyed when the city is captured"]
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
+		"name": "Ophirian Stele",
+		"replaces": "Monument",
+		"uniqueTo": "Ophir",
+		"cost": 40,
 		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"culture": 2,
+		"faith": 2,
 	}
 ]
