@@ -8,7 +8,7 @@
           "strenght": 5,
           "cost": 25,
           "uniques": ["May enter foreign tiles without open borders"],
-          "promotions": ["Ignore terrain cost"],
+          "promotions": ["Ignore terrain cost","Survivalism I"],
           "attackSound": "metalhit"
     },
     {
