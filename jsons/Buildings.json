@@ -3,7 +3,7 @@
 		"name": "Ethiopian Culture",
 		"uniqueTo": "Ophir",
 		"cost": 1,
-		"uniques": ,
+		"uniques": ["Unsellable","Unbuildable","Never destroyed when the city is captured"]
 	},
 	{
 		"name": "Breeders",
