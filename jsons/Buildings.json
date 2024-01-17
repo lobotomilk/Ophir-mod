@@ -11,7 +11,7 @@
 		"cost": 1,
 		"uniques": ["Unsellable","Unbuildable","Never destroyed when the city is captured",
 			"[+1 Food] for every [Ocean] tile"]
-	}
+	},
 	{
 		"name": "Ophirian Stele",
 		"replaces": "Monument",
