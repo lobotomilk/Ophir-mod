@@ -10,10 +10,5 @@
           "uniques": ["May enter foreign tiles without open borders"],
           "promotions": ["Ignore terrain cost","Survivalism I"],
           "attackSound": "metalhit"
-    },
-    {
-      
-      
     }
-     
 ]
