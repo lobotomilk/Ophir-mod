@@ -14,10 +14,14 @@
     },
     { //Medieval
         "name": "Shotelai",
+        "replaces": "Swordsman"
         "unitType": "Sword",
         "uniqueTo": "Ophir",
+        "requiredTech": "Iron Casting",
         "movement": "2",
-        "strength": "5",
+        "strength": "19",
+        "cost": 60,
+        "requiredResource": "Iron",
     },
     {//Industrial era
         "name": "Oromo Cavalry",
