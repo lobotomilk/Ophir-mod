@@ -16,10 +16,17 @@
           "replaces": "Calvary",
           "unitType": "Mounted",
           "uniqueTo": "Ophir",
-          "movement": 5,
-          "strenght": 5,
-          "cost": 25,
-          "uniques": ["May enter foreign tiles without open borders"],
+          "strength": 34,
+  	      "cost": 225,
+          "movement": 4,
+          "requiredResource": "Horses",
+          "uniques": [
+              "Can move after attacking",
+              "No defensive terrain bonus",
+              "[-33]% Strength <vs cities> <when attacking>",
+              "Never appears as a Barbarian unit"
+          ],
+        "requiredResource": "Horses",
           "promotions": ["Ignore terrain cost","Survivalism I"],
           "attackSound": "metalhit"  
     }
