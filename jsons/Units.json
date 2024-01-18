@@ -38,8 +38,7 @@
               "[-33]% Strength <vs cities> <when attacking>",
               "Never appears as a Barbarian unit"
           ],
-        "requiredResource": "Horses",
-          "promotions": ["Ignore terrain cost","Survivalism I"],
+          "promotions": ["Survivalism I"],
           "attackSound": "metalhit"  
     }
 ]
