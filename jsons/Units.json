@@ -13,7 +13,7 @@
     },
     {//Industrial era
         "name": "Oromo Cavalry",
-          "replaces": "Calvary",
+          "replaces": "Cavalry",
           "unitType": "Mounted",
           "uniqueTo": "Ophir",
           "strength": 34,
