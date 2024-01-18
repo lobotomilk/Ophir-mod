@@ -15,7 +15,7 @@
         "name": "Oromo Cavalry",
           "replaces": "Calvary",
           "unitType": "Mounted",
-          "uniqueTo": "Ethiopia",
+          "uniqueTo": "Ophir",
           "movement": 5,
           "strenght": 5,
           "cost": 25,
