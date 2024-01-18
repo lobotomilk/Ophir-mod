@@ -22,6 +22,7 @@
         "strength": "19",
         "cost": 65,
         "requiredResource": "Iron",
+        "attackSound": "metalhit"
     },
     {//Industrial era
         "name": "Oromo Cavalry",
