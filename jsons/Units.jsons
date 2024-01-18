@@ -10,5 +10,17 @@
           "uniques": ["May enter foreign tiles without open borders"],
           "promotions": ["Ignore terrain cost","Survivalism I"],
           "attackSound": "metalhit"
+    },
+    {//Industrial era
+        "name": "Oromo Cavalry",
+          "replaces": "Calvary",
+          "unitType": "Mounted",
+          "uniqueTo": "Ethiopia",
+          "movement": 5,
+          "strenght": 5,
+          "cost": 25,
+          "uniques": ["May enter foreign tiles without open borders"],
+          "promotions": ["Ignore terrain cost","Survivalism I"],
+          "attackSound": "metalhit"  
     }
 ]
