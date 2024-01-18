@@ -20,7 +20,7 @@
         "requiredTech": "Iron Casting",
         "movement": "2",
         "strength": "19",
-        "cost": 60,
+        "cost": 65,
         "requiredResource": "Iron",
     },
     {//Industrial era
