@@ -12,6 +12,7 @@
           "promotions": ["Ignore terrain cost","Survivalism I"],
           "attackSound": "metalhit"
     },
+	
     {
 	"name": "Debtera",
 	"unitType": "Civilian",
@@ -25,6 +26,21 @@
 	    "Unbuildable", "Religious Unit", "Hidden when religion is disabled"],
 		"movement": 4,
 		"religiousStrength": 1000
+	},
+
+	//clasical	
+   { 
+	"name": "Vinland Berserker",
+	"uniqueTo": "Vinland",
+        "replaces": "Longswordsman"
+        "unitType": "Sword",
+        "uniqueTo": "Ophir",
+        "requiredTech": "Iron Working",
+        "movement": "3",
+        "strength": "21",
+        "cost": 120,
+        "requiredResource": "Iron",
+        "attackSound": "metalhit"
 	},
     
     { //Medieval
