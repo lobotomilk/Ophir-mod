@@ -15,7 +15,7 @@
 	{
 		"name": "Plains Culture°",
 		"cost": 1,
-		"uniques": ["Unsellable","Never destroyed when the city is captured"]
+		"uniques": ["Unsellable","Unbuildable","Never destroyed when the city is captured"]
 	},
 	{
 		"name": "Ophirian Stele",
