@@ -32,7 +32,7 @@
         "replaces": "Swordsman"
         "unitType": "Sword",
         "uniqueTo": "Ophir",
-        "requiredTech": "Iron Casting",
+        "requiredTech": "Metal Working",
         "movement": "2",
         "strength": "19",
         "cost": 65,
