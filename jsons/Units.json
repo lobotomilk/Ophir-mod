@@ -12,6 +12,11 @@
           "promotions": ["Ignore terrain cost","Survivalism I"],
           "attackSound": "metalhit"
     },
+    {
+        "name": "Debtera",
+        "uniqueTo": "Ophir",
+        "replaces": "Missionary",
+    }
     { //Medieval
         "name": "Shotelai",
         "replaces": "Swordsman"
