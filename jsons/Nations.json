@@ -69,7 +69,7 @@
 		"outerColor": [252,252,252],
 		"innerColor": [20,20,20],
 		"uniqueName": "Pristine Nature",
-		"uniques": ["Gain a free [Norse Culture] <upon founding a city>"],
+		"uniques": ["Gain a free [Norse Culture] [in this city] <upon founding a city>"],
 		
 		"cities": ["Markland","Kwestantinos","Lalibella","New Amsterdam","Princetown","Bartica","Tuschen","Mabaruma","Mahdia","Lethem","Fort Wellington","Triumph","Vreed en Hoop",
                             "Corriverton","Parika","Ituni","Rose Hall","Rosignol","Victoria","Plaisance","Kwakwani","Skeldon",
