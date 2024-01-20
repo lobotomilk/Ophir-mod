@@ -66,8 +66,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [240,223,41],
-		"innerColor": [23,110,22],
+		"outerColor": [252,252,252],
+		"innerColor": [20,20,20],
 		"uniqueName": "Pristine Nature",
 		"uniques": ["Gain a free [Norse Culture] <upon founding a city>"],
 		
