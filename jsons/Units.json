@@ -42,10 +42,22 @@
         "requiredResource": "Iron",
         "attackSound": "metalhit"
 	},
+	
+    {
+	"name": "Vinland Longship",
+        "replaces": "Trireme"
+        "unitType": "Melee Water",
+        "uniqueTo": "Vinland",
+        "requiredTech": "Sailing",
+        "movement": "2",
+        "strength": "19",
+        "cost": 45,
+        "attackSound": "metalhit"
+    },
     
     { //Medieval
         "name": "Shotelai",
-        "replaces": "Swordsman"
+        "replaces": "Swordsman",
         "unitType": "Sword",
         "uniqueTo": "Ophir",
         "requiredTech": "Iron Working",
