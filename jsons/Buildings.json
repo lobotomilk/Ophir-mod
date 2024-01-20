@@ -13,6 +13,12 @@
 			"[+1 Food] for every [Ocean] tile"]
 	},
 	{
+		"name": "Plains Culture°",
+		"uniqueTo":  ["Vinland","Ophir"],
+		"cost": 1,
+		"uniques": ["Unsellable","Never destroyed when the city is captured"]
+	},
+	{
 		"name": "Ophirian Stele",
 		"replaces": "Monument",
 		"uniqueTo": "Ophir",
