@@ -13,15 +13,16 @@
           "attackSound": "metalhit"
     },
     {
-		"name": "Debtera",
-		"unitType": "Civilian",
+	"name": "Debtera",
+	"unitType": "Civilian",
         "uniqueTo": "Ophir",
         "replaces": "Missionary",
-		"uniques": [
+	"uniques": [
             "Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed>",
             "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
-			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
-			"[-1] Sight", "Unbuildable", "Religious Unit", "Hidden when religion is disabled"],
+	    "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+	    "All adjacent units heal [5] HP when healing", 
+	    "Unbuildable", "Religious Unit", "Hidden when religion is disabled"],
 		"movement": 4,
 		"religiousStrength": 1000
 	},
