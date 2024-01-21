@@ -49,6 +49,8 @@
         "unitType": "Melee Water",
         "uniqueTo": "Vinland",
         "requiredTech": "Sailing",
+	"obsoleteTech": "Astronomy",
+	"upgradesTo": "Caravel",
         "movement": "2",
         "strength": "19",
         "cost": 45,
