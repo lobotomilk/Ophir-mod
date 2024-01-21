@@ -35,6 +35,7 @@
 		"requiredTech": "Sailing",
 		"upgradesTo": "Vinland Berserker",
 		"uniques":[
+			"Only available <upon constructing [Norse Culture] [in this city]>",
 			"Can build [Farm] improvements on tiles",
 			"Can build [Plantation] improvements on tiles",
 			"Can build [Pasture] improvements on tiles"
