@@ -71,6 +71,20 @@
         "attackSound": "metalhit"
     },
     {//Industrial era
+	"name": "Shifta",
+	"unitTye": "Gunpowder",
+	"uniqueTo": "Barbarians",
+	"strength": 30,
+	"cost": 195
+	"movement": 3,
+	"requiredTech": "Rifling",
+	"obsoleteTech": "Replaceable Parts",
+	"upgradesTo": "Great War Infantry"
+	"uniques": ["Ignores terrain cost"],
+        "attackSound": "shot",
+    }
+    
+{
         "name": "Oromo Cavalry",
           "replaces": "Cavalry",
           "unitType": "Mounted",
