@@ -51,8 +51,8 @@
         "requiredTech": "Sailing",
 	"obsoleteTech": "Astronomy",
 	"upgradesTo": "Caravel",
-        "movement": "2",
-        "strength": "19",
+        "movement": "4",
+        "strength": "10",
         "cost": 45,
         "attackSound": "metalhit"
     },
