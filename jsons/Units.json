@@ -85,6 +85,6 @@
               "Never appears as a Barbarian unit"
           ],
           "promotions": ["Survivalism I"],
-          "attackSound": "metalhit"  
+          "attackSound": "horse"  
     }
 ]
