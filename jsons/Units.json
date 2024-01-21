@@ -87,7 +87,7 @@
     },
     {//Industrial era
 	"name": "Shifta",
-	"unitTye": "Gunpowder",
+	"unitType": "Gunpowder",
 	"uniqueTo": "Barbarians",
 	"strength": 30,
 	"cost": 195
