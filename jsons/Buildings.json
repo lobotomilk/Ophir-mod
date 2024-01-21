@@ -1,13 +1,11 @@
 [ //CULTURES
 	{
 		"name": "Ethiopian Culture",
-		"uniqueTo": "Ophir",
 		"cost": 1,
 		"uniques": ["Unsellable","Unbuildable","Never destroyed when the city is captured"]
 	},
 	{
 		"name": "Norse Culture",
-		"uniqueTo": "Vinland",
 		"cost": 1,
 		"uniques": ["Unsellable","Unbuildable","Never destroyed when the city is captured",
 			"[+1 Food] for every [Ocean] tile"]
