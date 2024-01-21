@@ -29,7 +29,7 @@
 	},
 	{
 		"name": "Viking Farmer",
-		"unitType:" "Sword",
+		"unitType": "Sword",
 		"movement": 2,
 		"strength": 10,
 		"requiredTech": "Sailing",
@@ -39,6 +39,7 @@
 			"Can build [Plantation] improvements on tiles",
 			"Can build [Pasture] improvements on tiles"
 		],
+		"attackSound": "metalhit",
 	},
 
 	//clasical	
