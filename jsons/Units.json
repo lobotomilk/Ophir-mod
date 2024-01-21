@@ -48,12 +48,13 @@
         "replaces": "Trireme"
         "unitType": "Melee Water",
         "uniqueTo": "Vinland",
+	"movement": "4",
+        "strength": "10",
+        "cost": 45,
         "requiredTech": "Sailing",
 	"obsoleteTech": "Astronomy",
 	"upgradesTo": "Caravel",
-        "movement": "4",
-        "strength": "10",
-        "cost": 45,
+	"uniques": ["+1 Sight","Can build [Water] improvements on tiles"],
         "attackSound": "metalhit"
     },
     
