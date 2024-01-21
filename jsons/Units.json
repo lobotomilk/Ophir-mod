@@ -27,6 +27,19 @@
 		"movement": 4,
 		"religiousStrength": 1000
 	},
+	{
+		"name": "Viking Farmer",
+		"unitType:" "Sword",
+		"movement": 2,
+		"strength": 10,
+		"requiredTech": "Sailing",
+		"upgradesTo": "Vinland Berserker",
+		"uniques":[
+			"Can build [Farm] improvements on tiles",
+			"Can build [Plantation] improvements on tiles",
+			"Can build [Pasture] improvements on tiles"
+		],
+	},
 
 	//clasical	
    { 
@@ -54,7 +67,7 @@
         "requiredTech": "Sailing",
 	"obsoleteTech": "Astronomy",
 	"upgradesTo": "Caravel",
-	"uniques": ["+1 Sight","Can build [Water] improvements on tiles"],
+	"uniques": ["+1 Sight","May create improvements on water resources"],
         "attackSound": "metalhit"
     },
     
