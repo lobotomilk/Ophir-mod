@@ -2,11 +2,13 @@
 	{
 		"name": "Ethiopian Culture",
 		"cost": 1,
+		"maintenance": 0,
 		"uniques": ["Unsellable","Unbuildable","Never destroyed when the city is captured"]
 	},
 	{
 		"name": "Norse Culture",
 		"cost": 1,
+		"maintenance": 0,
 		"uniques": ["Unsellable","Unbuildable","Never destroyed when the city is captured",
 			"[+1 Food] for every [Ocean] tile"]
 	},
