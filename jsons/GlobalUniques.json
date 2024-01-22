@@ -1,6 +1,8 @@
 {
   "name": "Global Uniques",
   "uniques": [
-        "Cannot build [Viking Farmer] units <in cities without a [Norse Culture]>"
+        "Cannot build [Viking Farmer] units <in cities without a [Norse Culture]>",
+        "Gain a free [Ethiopian Culture] [in this city] <in cities with a [Ethiopian Culture]">,
+        "Gain a free [Norse Culture] [in this city] <in cities with a [Norse Culture]">
     ]
 }
