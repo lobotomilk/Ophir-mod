@@ -1,6 +1,18 @@
 [  
     //ALWAYS AVAILABLE
     {
+	    "name": "Amhara Founder",
+	    "UniqueTo": "Ophir",
+	    "replaces": "Settler",
+	    "unitType": "Civilian",
+	    "movement": 2,
+	    "cost" 20,
+	    "uniques": [
+		    "Gain a free [Ethiopian Culture] [in this city] <upon founding a city>"
+	    ]
+    }
+	{
+	    "replaces": Settler,
           "name": "Viking Explorer",
           "replaces": "Scout",
           "unitType": "Scout",
@@ -24,8 +36,8 @@
 	    "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
 	    "All adjacent units heal [5] HP when healing", 
 	    "Unbuildable", "Religious Unit", "Hidden when religion is disabled"],
-		"movement": 4,
-		"religiousStrength": 1000
+	"movement": 4,
+	"religiousStrength": 1000
 	},
 	{
 		"name": "Viking Farmer",
