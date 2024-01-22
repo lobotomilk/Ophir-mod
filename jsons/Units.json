@@ -1,16 +1,5 @@
 [  
     //ALWAYS AVAILABLE
-    {
-	    "name": "Amhara Founder",
-	    "UniqueTo": "Ophir",
-	    "replaces": "Settler",
-	    "unitType": "Civilian",
-	    "movement": 2,
-	    "cost" 20,
-	    "uniques": [
-		    "Gain a free [Ethiopian Culture] [in this city] <upon founding a city>"
-	    ]
-    }
 	{
 	    "replaces": Settler,
           "name": "Viking Explorer",
