@@ -1,8 +1,7 @@
 [  
     //ALWAYS AVAILABLE
 	{
-	    "replaces": Settler,
-          "name": "Viking Explorer",
+	  "name": "Viking Explorer",
           "replaces": "Scout",
           "unitType": "Scout",
           "uniqueTo": "Vinland",
