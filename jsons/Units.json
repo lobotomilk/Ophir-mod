@@ -1,6 +1,12 @@
 [  
     //ALWAYS AVAILABLE
 	{
+		"name": "Amhara Settler",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": " ",
+	},
+	{
 	  "name": "Viking Explorer",
           "replaces": "Scout",
           "unitType": "Scout",
