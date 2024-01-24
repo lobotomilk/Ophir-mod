@@ -4,7 +4,7 @@
 		"name": "Amhara Settler",
 		"unitType": "Civilian",
 		"movement": 2,
-		"uniques": " ",
+		"uniques": "Gain a free [buildingName] [cityFilter] <by consuming this unit>",
 	},
 	{
 	  "name": "Viking Explorer",
