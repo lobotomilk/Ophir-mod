@@ -4,7 +4,10 @@
 		"name": "Amhara Settler",
 		"unitType": "Civilian",
 		"movement": 2,
-		"uniques": "Gain a free [buildingName] [cityFilter] <by consuming this unit>",
+		"cost" 109,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population", "Gain a free [Ethiopian Culture] [in this city] <by consuming this unit>"],
+		"hurryCostModifier": 20
 	},
 	{
 	  "name": "Viking Explorer",
